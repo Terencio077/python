@@ -1,1 +1,1 @@
-print("terencio 2")
+print("terencio")
